@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Models, datasets and generated data
+*.keras
+*.h5
+*.pkl
+data/
+models/
+real time lettuce/
+real time aloevera/
+sensor_data.csv
+plant_analysis_*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*

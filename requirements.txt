@@ -1,0 +1,15 @@
+tensorflow>=2.12
+numpy
+pandas
+openpyxl
+scikit-learn
+xgboost
+joblib
+tqdm
+matplotlib
+seaborn
+opencv-python
+pillow
+rembg
+requests
+pyserial
